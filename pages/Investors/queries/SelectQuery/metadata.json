@@ -169,9 +169,10 @@
     "userSetOnLoad": true,
     "confirmBeforeExecute": false,
     "policies": [],
-    "userPermissions": []
+    "userPermissions": [],
+    "createdAt": "2024-06-26T07:36:35Z"
   },
+  "gitSyncId": "667bc54f809c606ca8c6798e_2b5bd000-8fbf-4654-a2aa-a0e53946b903",
   "id": "Investors_SelectQuery",
-  "deleted": false,
-  "gitSyncId": "65441be5c119167eda9802c6_2023-11-02T22:15:48.156364849Z"
+  "deleted": false
 }
