@@ -1,0 +1,20 @@
+{
+  "packageUUID": "1435ed22-9b76-41c1-9ee9-86f5a88cba87",
+  "moduleUUID": "09d4af47-40b5-4b85-8794-f6c895410ffb",
+  "type": "QUERY_MODULE",
+  "unpublishedModuleInstance": {
+    "version": "0.0.1",
+    "name": "Query2",
+    "contextType": "PAGE",
+    "pageId": "Page1",
+    "inputs": {},
+    "moduleInputs": {},
+    "jsonPathKeys": [],
+    "isValid": true,
+    "invalids": [],
+    "userPermissions": []
+  },
+  "gitSyncId": "667d058203abe6627e29e1d1_fe23010b-2f14-4f13-9beb-6b7406fb7b1a",
+  "id": "Page1_Query2",
+  "deleted": false
+}
